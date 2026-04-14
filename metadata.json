@@ -1,0 +1,6 @@
+{
+  "name": "PDF to AutoCAD Converter",
+  "description": "A professional tool to convert PDF engineering drawings to AutoCAD DXF format with vector path extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
